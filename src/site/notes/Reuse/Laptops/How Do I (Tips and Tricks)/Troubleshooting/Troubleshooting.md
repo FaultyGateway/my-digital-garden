@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reuse/laptops/how-do-i-tips-and-tricks/troubleshooting/troubleshooting/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/reuse/laptops/how-do-i-tips-and-tricks/troubleshooting/troubleshooting/"}
 ---
 
 
