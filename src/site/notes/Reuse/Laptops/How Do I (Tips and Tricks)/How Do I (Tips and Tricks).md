@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reuse/laptops/how-do-i-tips-and-tricks/how-do-i-tips-and-tricks/"}
+{"dg-publish":true,"permalink":"/reuse/laptops/how-do-i-tips-and-tricks/how-do-i-tips-and-tricks/","pinned":true}
 ---
 
 
