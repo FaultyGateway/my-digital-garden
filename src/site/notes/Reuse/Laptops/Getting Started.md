@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reuse/laptops/getting-started/","tags":["onboarding","training","laptops","procedure"]}
+{"dg-publish":true,"permalink":"/reuse/laptops/getting-started/","pinned":true,"tags":["onboarding","training","laptops","procedure"]}
 ---
 
 If you haven't already, please open the [Laptop Story module](https://laptopstory.freegeek.org/).
