@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reuse/laptops/laptops/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/reuse/laptops/laptops/","pinned":true}
 ---
 
 
