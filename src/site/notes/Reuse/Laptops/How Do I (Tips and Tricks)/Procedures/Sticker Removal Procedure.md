@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reuse/laptops/how-do-i-tips-and-tricks/procedures/sticker-removal-procedure/","pinned":true,"tags":["procedure","safety","sticker-removal"]}
+{"dg-publish":true,"permalink":"/reuse/laptops/how-do-i-tips-and-tricks/procedures/sticker-removal-procedure/","tags":["procedure","safety","sticker-removal"]}
 ---
 
 
