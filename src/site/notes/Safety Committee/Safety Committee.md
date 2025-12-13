@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/safety-committee/safety-committee/"}
+{"dg-publish":true,"permalink":"/safety-committee/safety-committee/","pinned":true}
 ---
 
